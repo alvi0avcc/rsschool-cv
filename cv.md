@@ -72,10 +72,12 @@ Netherlands inspection and certification companies.
 * Position in the company - Regional Inspector/Manager>
 
 ### AVCC - Private project <https://avcc.sytes.net/>
-<img src="https://avcc.sytes.net/img/elevators/big/0.png" alt="AVCC Logo" style="height: 100px;"/>
-<img src="https://avcc.sytes.net/img/elevators/big/9.png" alt="AVCC Logo" style="height: 100px;"/>
-<img src="https://avcc.sytes.net/img/elevators/big/11.png" alt="AVCC Logo" style="height: 100px;"/>
-<img src="https://avcc.sytes.net/img/elevators/big/12.png" alt="AVCC Logo" style="height: 100px;"/>
+<div style="display: flex; gap: 5px">
+<img src="https://avcc.sytes.net/img/elevators/big/0.png" alt="example picture 1" style="height: 100px;"/>
+<img src="https://avcc.sytes.net/img/elevators/big/9.png" alt="example picture 2" style="height: 100px;"/>
+<img src="https://avcc.sytes.net/img/elevators/big/11.png" alt="example picture 3" style="height: 100px;"/>
+<img src="https://avcc.sytes.net/img/elevators/big/12.png" alt="example picture 4" style="height: 100px;"/>
+</div>
 
 This project is intended for calculating the volume of heaps of cargo. Primarily grains. The idea is based on keeping the required measurements to a minimum and maintaining acceptable accuracy.
 
