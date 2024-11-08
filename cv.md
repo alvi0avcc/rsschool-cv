@@ -1,10 +1,13 @@
+<img src="https://avcc.sytes.net/img/logo/logo.svg" alt="AVCC Logo" style="height: 100px; width:100px;"/>
+
 # Aleksandr Vavilov
+
 ## Contacts
-* E-Mail : alvi.ua@gmail.com
-* Telegram:  @alvi_brd https://t.me/alvi_brd
-* Discord: 
-* GitHub: alvi0avcc https://github.com/alvi0avcc
-* LinkedIn: https://www.linkedin.com/in/aleksandr-vavilov-avcc/
+* E-Mail : <alvi.ua@gmail.com>
+* Telegram: [@alvi_brd](https://t.me/alvi_brd "https://t.me/alvi_brd")
+* Discord: [Aleksandr Vavilov (@alvi0avcc)](https://discordapp.com/users/1300934981924683779/ "https://discordapp.com/users/1300934981924683779/")
+* GitHub: [alvi0avcc](https://github.com/alvi0avcc "https://github.com/alvi0avcc")
+* [LinkedIn](https://www.linkedin.com/in/aleksandr-vavilov-avcc/ "https://www.linkedin.com/in/aleksandr-vavilov-avcc/")
 ## About
 By main specialty I am a shipbuilding engineer.
 Engaged in the development and support of shipbuilding projects. Subsequently, ship design was transformed into ship operation. And as a result, it grew into the provision of services for monitoring the execution of international contracts during transportation by sea.
@@ -13,7 +16,9 @@ But the main calling took over. I have always been interested in the IT directio
 
 Currently I am developing a personal project to determine/control the amount of bulk cargo.
 
-https://avcc.sytes.net/
+<https://avcc.sytes.net/>
+
+<https://github.com/alvi0avcc>
 
 ## Skills
 
@@ -35,6 +40,7 @@ https://avcc.sytes.net/
 
 An example of a function for converting Cartesian coordinates to spherical coordinates.
 
+```
 function DecartToSphere ( x, y, z ){
     let r;
     if ( x == 0 & y == 0 & z == 0 ) { r = 0 }
@@ -48,23 +54,28 @@ function DecartToSphere ( x, y, z ){
     }
     return [ r, tetta, gamma ];
 }
+```
 
 ## Experience
 
-### Bureau Veritas https://group.bureauveritas.com/
+### Bureau Veritas <https://group.bureauveritas.com/>
 French inspection and certification company.
 
-Provides services in the field of certification, industrial audit, technical inspection, technical supervision, inspection and verification of ships and cargo, checking compliance with standards in the field of quality, ecology, safety and labor protection.
+> Provides services in the field of certification, industrial audit, technical inspection, technical supervision, inspection and verification of ships and cargo, checking compliance with standards in the field of quality, ecology, safety and labor protection.
 * Position in the company - Ispection team leader
 
-### Control Union https://www.controlunion.com/
+### Control Union <https://www.controlunion.com/>
 Netherlands inspection and certification companies.
 
-Control Union has been helping to build a better world for several decades. From our roots in agriculture, we have since grown to become a global trustworthy partner for testing, inspection and certification (TIC), providing a comprehensive range of quality services to clients in more than 80 countries.
+> Control Union has been helping to build a better world for several decades. From our roots in agriculture, we have since grown to become a global trustworthy partner for testing, inspection and certification (TIC), providing a comprehensive range of quality services to clients in more than 80 countries.
 
 * Position in the company - Regional Inspector/Manager>
 
-### AVCC - Private project https://avcc.sytes.net/
+### AVCC - Private project <https://avcc.sytes.net/>
+<img src="https://avcc.sytes.net/img/elevators/big/0.png" alt="AVCC Logo" style="height: 100px;"/>
+<img src="https://avcc.sytes.net/img/elevators/big/9.png" alt="AVCC Logo" style="height: 100px;"/>
+<img src="https://avcc.sytes.net/img/elevators/big/11.png" alt="AVCC Logo" style="height: 100px;"/>
+<img src="https://avcc.sytes.net/img/elevators/big/12.png" alt="AVCC Logo" style="height: 100px;"/>
 
 This project is intended for calculating the volume of heaps of cargo. Primarily grains. The idea is based on keeping the required measurements to a minimum and maintaining acceptable accuracy.
 
@@ -73,12 +84,12 @@ This project is intended for calculating the volume of heaps of cargo. Primarily
 ## Education
 
 * University:
-  * Ukrainian State Maritime Technical University, ships and ocean engineering https://nuos.edu.ua/
+  * Ukrainian State Maritime Technical University, ships and ocean engineering <https://nuos.edu.ua/>
     * Shipbuilding engineer (specialist).
 * Courses:
-  * Computer academy Step https://itstep.org/
+  * Computer academy Step <https://itstep.org/>
     * C++
-  * Tomsk State University https://tsu.ru/
+  * Tomsk State University <https://tsu.ru/>
     * HTML5, CSS3, JS.
 
 ## Languages
